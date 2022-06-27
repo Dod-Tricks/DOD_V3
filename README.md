@@ -22,8 +22,10 @@ pip2 install bs4
 
 pip2 install futures
 
+rm -rf DOD_V3
+
 git clone https://github.com/Dod-Tricks/DOD_V3
 
 cd DOD_V3
 
-python dod_old_crack.py
+python dod_v3.py
