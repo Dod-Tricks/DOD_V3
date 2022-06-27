@@ -26,4 +26,4 @@ git clone https://github.com/Dod-Tricks/DOD_V3
 
 cd DOD_V3
 
-python3 dod_old_crack.py
+python dod_old_crack.py
